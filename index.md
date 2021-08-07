@@ -1,8 +1,8 @@
 ## Welcome to Code of the Electric flower
 
-Here is the code to my project, it has everything writen pretty well down. Enjoy!!
+### Here is the code to my project, it has everything writen pretty well down. Enjoy!!
 
-```markdown
+```c++
 #include <Servo.h>
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
